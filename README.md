@@ -1,6 +1,6 @@
-# tictactoe
+# TicTacToe
 
-A new Flutter project.
+Second Flutter Project
 
 ## Getting Started
 
@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+App Documentation :
+
+
+
+
+![Screen Shot 2024-01-20 at 11 51 23](https://github.com/agungwahyu14/ticTaCtoe/assets/69448014/328923b7-b09f-4814-8c51-ea49f1b54a26)
